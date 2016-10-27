@@ -6,8 +6,10 @@ class Factorial{
 	System.out.println("Enter the number:");
 	num=Integer.parseInt(System.console().readLine());
 	for(int i=num;i>1;i--)
-		fact*=i;
+		fact*=i;   //helloooo
 	System.out.println("Factorial = "+fact);
  }
+//changed helloooo
 
-}
+
+
